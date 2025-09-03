@@ -6,7 +6,6 @@
   <a href="https://github.com/zhayujie/chatgpt-on-wechat"><img src="https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat?style=flat-square" alt="Stars"></a> <br/>
 </p>
 
-**chatgpt-on-wechat**（简称CoW）项目是基于大模型的智能对话机器人，支持自由切换多种模型，可接入网页、微信公众号、企业微信应用、飞书、钉钉中使用，能处理文本、语音、图片、文件等多模态消息，支持通过插件访问操作系统和互联网等外部资源，以及基于自有知识库定制企业AI应用。
 
 # 简介
 
